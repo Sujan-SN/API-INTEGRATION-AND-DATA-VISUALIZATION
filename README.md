@@ -31,3 +31,5 @@ This project highlights the importance of combining data acquisition with visual
 In conclusion, this task provides a foundational understanding of API integration and data visualization using Python. It demonstrates how external data sources can be accessed, processed, and transformed into meaningful visual outputs. The project also emphasizes practical skills such as working with APIs, handling JSON data, and creating visual dashboards, which are essential for modern data-driven applications.
 
 ## OUTPUT
+
+<img width="1500" height="838" alt="Image" src="https://github.com/user-attachments/assets/1343879e-652e-4004-b796-683c126f2d0d" />
